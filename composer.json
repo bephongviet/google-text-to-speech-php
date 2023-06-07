@@ -1,0 +1,12 @@
+{
+    "name": "bpv/google-text-to-speech-php",
+    "authors": [
+        {
+            "name": "Bệ Phóng Việt",
+            "email": "122541297+bephongvietdev@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "google/cloud-text-to-speech": "^1.6"
+    }
+}
